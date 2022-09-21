@@ -1,6 +1,6 @@
 MPEG Documents are usually internal documents only available to MPEG members. Final documents are published by ISO, most of the time for a fee and sometimes free-of-charge. ISOBMFF used to be free of charge but is no longer unfortunately. Some intermediate documents (e.g. working drafts, technologies under considerations, defect reports, etc.) are available for free on [MPEG’s public site](https://www.mpeg.org/).
 
-The following tables lists final and current documents produced by the File Format group of MPEG, as of the January 2022 meeting. Some links are only accessible to MPEG members.
+The following tables lists final and current documents produced by the File Format group of MPEG, as of the September 2022 meeting. Some links are only accessible to MPEG members.
 
 ### 14496-12 | ISOBMFF 
 | Document Title | Link to latest public document (if any)                                                                           | MPEG output date | MPEG output number (MPEG-Member only)                                                                                                                                           | ISO status<br>(public page and editor-only)                                                                                                    | Description                                                                                                           |
